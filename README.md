@@ -1,4 +1,4 @@
-# active_directory_homelab
+# Windows Server 2025 Setup
 Setup Windows Server 2025 and Windows 10/11 VMs in VirtualBox to simulate a functioning domain. Along with other real world IT scenarios.
 
 ## Server Installation - Ongoing
